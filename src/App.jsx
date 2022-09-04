@@ -1,7 +1,7 @@
-import reactLogo from "./assets/react.svg";
-import "./App.css";
+import reactLogo from './assets/react.svg'
+import './App.css'
 
-import TabExample from "./components/TabExample";
+import TabExample from './components/TabExample'
 
 function App() {
   return (
@@ -22,7 +22,7 @@ function App() {
 
       <TabExample />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
